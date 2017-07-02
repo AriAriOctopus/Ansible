@@ -1,0 +1,6 @@
+---
+# The variables file used by the playbooks in the robots group.
+# These don't have to be explicitly imported by vars_files: they are autopopulated.
+
+domain: SHARIF_TEST_001
+hub_ip: 6.7.8.9

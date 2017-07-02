@@ -1,0 +1,6 @@
+---
+# This playbook will install MariaDB and create db user and give permissions.
+
+- name: Install telnet package
+  yum: name=telnet state=installed
+
